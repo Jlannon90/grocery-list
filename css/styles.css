@@ -1,0 +1,10 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  font-size: 2em;
+  font-weight: bold;
+  background-image: url(https://static.pexels.com/photos/301731/pexels-photo-301731.jpeg);
+}
+
+input {
+  font-family: 'Fira Sans', sans-serif;
+}
